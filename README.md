@@ -16,9 +16,9 @@
 
 <div>
   <p>Hi there. </p>
-  <p>I am <b>John Sese</b>, a 🧑‍💻<b>Software Engineer</b> located in Cavite, Philippines. With <b>5 years</b> of dedicated experience in the web development industry. I have honed my expertise in web-based technologies, with a primary focus on back-end development using <b>PHP</b>, <b>Laravel</b>, and <b>Lumen</b>. I also possess strong proficiency in front-end development, particularly with <b>Vue.js</b>.
+  <p>I am <b>John Sese</b>, a <b>Software Engineer</b> located in Cavite, Philippines. With <b>5 years</b> of dedicated experience in the web development industry. I have honed my expertise in web-based technologies, with a primary focus on back-end development using <b>PHP</b>, <b>Laravel</b>, and <b>Lumen</b>. I also possess strong proficiency in front-end development, particularly with <b>Vue.js</b>.
   </p>
-  <p>In addition to the activities mentioned earlier, I also enjoy engaging in hobbies such as 💪 working out, 🚴 going for bike rides, and 📺 indulging in movies, TV series, and anime. Furthermore, I have a passion for ✈️ traveling and exploring new destinations, where I relish the opportunity to meet people from diverse backgrounds and immerse myself in their unique cultures.
+  <p>Outside of programming, my interests include bike riding, and indulging in a range of entertainment such as movies, TV series, NBA games, and anime. Additionally, I have a deep passion for traveling and exploring new destinations. During my travels, I particularly enjoy immersing myself in the local scenery and participating in various activities.
   </p>
 </div>
 
