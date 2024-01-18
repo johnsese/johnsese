@@ -1,25 +1,29 @@
 <div align="center">
-  <img alt="Hustle!" src="https://images.unsplash.com/photo-1584907797008-ac1b19b3ce52?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80" height="300" />
-  <!-- Credits to Dayne Topkin on Unsplash (@dtopkin1) -->
-
-[![Static Badge](https://img.shields.io/badge/Portfolio-website?style=for-the-badge)](https://sesejohn.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesejohn/)
-[![Email](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=minutemailer&logoColor=white&color=8B89CC
-)](mailto:work@sesejohn.com)
 
 ![](https://streak-stats.demolab.com/?user=johnsese&theme=highcontrast)
 
 ![](https://komarev.com/ghpvc/?username=johnsese&color=brightgreen&base=1433&label=Visits) <!--- base=1433 😉 -->
 ![](https://badges.pufler.dev/repos/johnsese)
 ![](https://badges.pufler.dev/gists/johnsese)
+
+[![Static Badge](https://img.shields.io/badge/Portfolio-website?style=for-the-badge)](https://sesejohn.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesejohn/)
+[![Email](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=minutemailer&logoColor=white&color=8B89CC
+)](mailto:work@sesejohn.com)
+
 </div>
 
 <div>
-  <p>Hi there. </p>
-  <p>I am <b>John Sese</b>, a <b>Software Engineer</b> located in Cavite, Philippines. With <b>5 years</b> of dedicated experience in the web development industry. I have honed my expertise in web-based technologies, with a primary focus on back-end development using <b>PHP</b>, <b>Laravel</b>, and <b>Lumen</b>. I also possess strong proficiency in front-end development, particularly with <b>Vue.js</b>.
-  </p>
-  <p>Outside of programming, my interests include bike riding, and indulging in a range of entertainment such as movies, TV series, NBA games, and anime. Additionally, I have a deep passion for traveling and exploring new destinations. During my travels, I particularly enjoy immersing myself in the local scenery and participating in various activities.
-  </p>
+  <p>Hey! I'm John, a Software Engineer from the Philippines.</p>
+  <p>I've honed my expertise in web-based technologies, focusing primarily on back-end development using PHP, Laravel, and Lumen. I also have strong proficiency in front-end development, especially with Vue.js.</p>
+  <p>I'm currently furthering my skills in Laravel, JavaScript, and Vue.js.</p>
+  <p>Additional technologies I'm currently learning:</p>
+  <ul>
+    <li>Python</li>
+    <li>Node.js</li>
+    <li>Tailwind CSS</li>
+    <li>Open-source APIs</li>
+  </ul>
 </div>
 
 ## Skills
