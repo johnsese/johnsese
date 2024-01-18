@@ -1,16 +1,23 @@
 <div align="center">
+  <table>
+    <tr>
+      <td valign="top">
 
 ![](https://streak-stats.demolab.com/?user=johnsese&theme=highcontrast)
-
-![](https://komarev.com/ghpvc/?username=johnsese&color=brightgreen&base=1433&label=Visits) <!--- base=1433 😉 -->
-![](https://badges.pufler.dev/repos/johnsese)
-![](https://badges.pufler.dev/gists/johnsese)
-
-[![Static Badge](https://img.shields.io/badge/Portfolio-website?style=for-the-badge)](https://sesejohn.com)
+      </td>
+      <td valign="top">
+  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesejohn/)
+[![Static Badge](https://img.shields.io/badge/Portfolio-website?style=for-the-badge)](https://sesejohn.com)
 [![Email](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=minutemailer&logoColor=white&color=8B89CC
 )](mailto:work@sesejohn.com)
 
+![](https://komarev.com/ghpvc/?username=johnsese&color=brightgreen&base=1433&label=Profile%20Visits) <!--- base=1433 😉 -->
+![](https://badges.pufler.dev/repos/johnsese?label=Public%20Repos)
+![](https://badges.pufler.dev/gists/johnsese?label=Public%20Gists)
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div>
